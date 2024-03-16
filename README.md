@@ -33,7 +33,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- [Font](https://fonts.google.com) - For fonts
+- [Google fonts](https://fonts.google.com) - For fonts
 
 ### What I learned
 
