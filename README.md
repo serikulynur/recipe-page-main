@@ -33,7 +33,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- [Font](https://fonts.google.com) - For fonts
+- [Google fonts](https://fonts.google.com) - For fonts
 
 ### What I learned
 
@@ -49,6 +49,6 @@ In the future, I want to continue practicing CSS, or rather use flexbox and grid
 - [Дока](https://doka.guide) - Дока Russian-language documentation for learning Frontend development.
 
 ## Author
-- Instagram - [@serikulynur] (https://www.instagram.com/serikulynur)
+- Instagram - [@serikulynur](https://www.instagram.com/serikulynur)
 - Frontend Mentor - [@serikulynur](https://www.frontendmentor.io/profile/serikulynur)
 - Twitter - [@serikulynur](https://www.twitter.com/serikulynur)
